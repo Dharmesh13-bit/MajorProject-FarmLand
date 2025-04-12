@@ -1,6 +1,6 @@
-# 🌱 FarmLink – Farmland Rental & Batai Sharing App
+# 🌱 FarmLand – Farmland Rental & Batai Sharing App
 
-**FarmLink** is a mobile application built for individuals seeking to **buy, rent, or engage in batai (crop-sharing)** agreements for agricultural land. Designed with user experience in mind, the app provides a smooth interface for exploring, evaluating, and connecting with landowners.
+**FarmLand** is a mobile application built for individuals seeking to **buy, rent, or engage in batai (crop-sharing)** agreements for agricultural land. Designed with user experience in mind, the app provides a smooth interface for exploring, evaluating, and connecting with landowners.
 
 > 🔨 **Tech Stack**: Flutter, Dart, Firebase (Auth + Firestore + Storage)
 
